@@ -12,7 +12,7 @@ Human Languages (levels of understanding may vary (a lot)):
 
 Programming Languages:
 - [TypeScript](https://www.typescriptlang.org/)|[JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript) (very usable, convenient)
-- [Go](https://go.dev/) ([struct methods is hella fun](https://go.dev/doc/effective_go#methods))
+- [Go](https://go.dev/) ([methods are hella fun](https://go.dev/doc/effective_go#methods))
 - [Python](https://www.python.org/) 🧮 (my calculator)
 - [C](https://en.cppreference.com/w/c/language) (`printf("hello, world!\n");`)
 - [Dart](https://dart.dev/) 🎯 (not bullseye)
