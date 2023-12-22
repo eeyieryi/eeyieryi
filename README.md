@@ -24,6 +24,7 @@ Learning:
   - [Designing APIs with Swagger and OpenAPI by Joshua S. Ponelat and Lukas L. Rosenstock - Manning](https://www.manning.com/books/designing-apis-with-swagger-and-openapi)
 - Web Development
   - [Svelte](https://svelte.dev/) & [Svelte Kit](https://kit.svelte.dev/) (fun)
+  - State management using [svelte/store](https://svelte.dev/docs/svelte-store)
   - Web Scraping | [document.querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) | [Playwright](https://playwright.dev/) 🎭 (also fun)
   - [Go](https://go.dev/) (if it looks like a duck, talks like a duck, [then it's probably a duck](https://go.dev/doc/effective_go#generality) 🐥)
 - Mobile Development
