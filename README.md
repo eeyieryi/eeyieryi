@@ -15,7 +15,6 @@ Programming Languages:
 - [Go](https://go.dev/) ([methods are hella fun](https://go.dev/doc/effective_go#methods))
 - [Python](https://www.python.org/) 🧮 (my calculator)
 - [C](https://en.cppreference.com/w/c/language) (`printf("hello, world!\n");`)
-- [Dart](https://dart.dev/) 🎯 (not bullseye)
 
 Learning:
 - Books
@@ -27,11 +26,6 @@ Learning:
   - State management using [svelte/store](https://svelte.dev/docs/svelte-store)
   - Web Scraping | [document.querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector) | [Playwright](https://playwright.dev/) 🎭 (also fun)
   - [Go](https://go.dev/) (if it looks like a duck, talks like a duck, [then it's probably a duck](https://go.dev/doc/effective_go#generality) 🐥)
-- Mobile Development
-  - [Dart](https://dart.dev/) & [Flutter](https://flutter.dev/) (oop 😵‍💫)
-  - State management ([bloc](https://bloclibrary.dev/)) (😵‍💫)
-- Others
-  - [clasp](https://github.com/google/clasp) (Google Apps Script)
 
 <!---
 eeyieryi/eeyieryi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
