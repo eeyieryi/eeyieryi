@@ -7,8 +7,7 @@ Languages:
 - [TypeScript](https://www.typescriptlang.org/)
 - Português (Portuguese)
 - English (English)
-- 中文 (Mandarin Chinese)
-- 日本語 (Japanese)
+- 中文（Mandarin Chinese）
 
 <!---
 eeyieryi/eeyieryi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
